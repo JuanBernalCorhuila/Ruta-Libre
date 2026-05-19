@@ -24,11 +24,11 @@
 
 ## 👥 Equipo
 
-| Nombre | Identificación | Rol |
+| Nombre | Ingeniería | Rol |
 |---|---|---|
-| Juan Camilo Bernal Gordillo | 1016949442 | Estudiante |
-| Laura Marcela Quintero Poveda | 1077848632 | Estudiante |
-| Cristian Andrés Muñoz Montenegro | 1083878218 | Estudiante |
+| Juan Camilo Bernal Gordillo | Ingeniería sistemas | Estudiante |
+| Laura Marcela Quintero Poveda | Ingeniería de sistemas | Estudiante |
+| Cristian Andrés Muñoz Montenegro | Ingeniería de sistemas | Estudiante |
 
 ---
 
