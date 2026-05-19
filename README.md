@@ -26,7 +26,7 @@
 
 | Nombre | Ingeniería | Rol |
 |---|---|---|
-| Juan Camilo Bernal Gordillo | Ingeniería sistemas | Estudiante |
+| Juan Camilo Bernal Gordillo | Ingeniería de sistemas | Estudiante |
 | Laura Marcela Quintero Poveda | Ingeniería de sistemas | Estudiante |
 | Cristian Andrés Muñoz Montenegro | Ingeniería de sistemas | Estudiante |
 
